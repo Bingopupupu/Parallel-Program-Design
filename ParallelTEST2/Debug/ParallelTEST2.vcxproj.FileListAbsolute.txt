@@ -1,0 +1,2 @@
+D:\C++编程结果\ParallelTEST2\Debug\ParallelTEST2.exe
+D:\C++编程结果\ParallelTEST2\Debug\ParallelTEST2.pdb

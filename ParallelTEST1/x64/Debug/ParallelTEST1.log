@@ -1,0 +1,4 @@
+﻿  ParallelTEST1.cpp
+D:\C++编程结果\ParallelTEST1\ParallelTEST1.cpp(21,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++编程结果\ParallelTEST1\ParallelTEST1.cpp(33,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ParallelTEST1.vcxproj -> D:\C++编程结果\ParallelTEST1\x64\Debug\ParallelTEST1.exe
