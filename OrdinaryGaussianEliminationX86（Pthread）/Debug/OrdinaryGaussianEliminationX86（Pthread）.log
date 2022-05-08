@@ -1,0 +1,15 @@
+﻿  OrdinaryGaussianEliminationX86（Pthread）.cpp
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(73,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(142,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(573,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(677,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(732,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(740,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(748,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(756,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(764,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(772,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(780,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(788,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\OrdinaryGaussianEliminationX86（Pthread）.cpp(796,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  OrdinaryGaussianEliminationX86（Pthread）.vcxproj -> D:\C++编程结果\OrdinaryGaussianEliminationX86（Pthread）\Debug\OrdinaryGaussianEliminationX86（Pthread）.exe
