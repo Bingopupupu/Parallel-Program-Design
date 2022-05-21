@@ -1,0 +1,2 @@
+D:\C++文件\omp_Groebner\Debug\omp_Groebner.exe
+D:\C++编程结果\omp_Groebner\Debug\omp_Groebner.exe
