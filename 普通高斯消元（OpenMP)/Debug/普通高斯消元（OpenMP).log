@@ -1,0 +1,10 @@
+﻿  普通高斯消元（OpenMP).cpp
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(346,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(355,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(364,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(373,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(382,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(391,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(400,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++编程结果\普通高斯消元（OpenMP)\普通高斯消元（OpenMP).cpp(409,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  普通高斯消元（OpenMP).vcxproj -> D:\C++编程结果\普通高斯消元（OpenMP)\Debug\普通高斯消元（OpenMP).exe
